@@ -76,3 +76,7 @@ button {
   src: url("W95FA\w95fa.woff") format('woff');
 
 }
+
+html {
+    font-family: 'WINDOWS95'
+}
